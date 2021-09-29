@@ -8,6 +8,6 @@ SOLID is an acronym for five principles of architecture.
 
 **L – Liskov Substitution Principle .** A parent object should be able to replace its child during runtime polymorphism.
 
-**I –Interface Segregation Principle. **Client specific interfaces are better than general purpose interfaces.
+**I –Interface Segregation Principle.** Client specific interfaces are better than general purpose interfaces.
 
 **D – Dependency Inversion Principle.** Clients should not be forced to depend upon interfaces that they do not use
