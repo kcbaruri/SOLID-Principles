@@ -1,5 +1,3 @@
-"# SOLID-Principles" 
-
 SOLID is an acronym for five principles of architecture.
 
 **S – Single Responsibility Principle**. It states that every class should have single responsibility. A class should not have more than one reason to change.
