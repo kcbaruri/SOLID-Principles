@@ -9,3 +9,7 @@ SOLID is an acronym for five principles of architecture.
 **I –Interface Segregation Principle.** Client specific interfaces are better than general purpose interfaces.
 
 **D – Dependency Inversion Principle.** Clients should not be forced to depend upon interfaces that they do not use
+
+
+
+Ref: https://www.slideshare.net/kumareshbaruri/solid-principles-251298958
